@@ -1,9 +1,9 @@
 var config_data = `
 {
   "title": "Scouting PASS 2023",
+  "enable_google_sheets": "true",
   "page_title": "Charged Up",
   "checkboxAs": "10",
-  "enable_google_sheets": "true",
   "prematch": [
     { "name": "Scouter Initials",
       "code": "s",
